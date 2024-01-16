@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venorthcarolina
-- 👀 I’m interested in running, try new foods with friends, and traveling
-- 🌱 I’m currently learning Tableau and honing my skills in R, Python, and SQL
+- 👀 I’m interested in running, trying new foods with friends, and traveling
+- 🌱 I’m currently working towards my AWS certification and honing my skills in R, Python, and SQL
 - 💞️ I’m looking to collaborate on statistical side projects
 - 📫 How to reach me vwevans@ncsu.edu
 
